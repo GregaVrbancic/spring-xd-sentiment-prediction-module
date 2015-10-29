@@ -1,0 +1,2 @@
+# Spring XD module for sentiment predition of a tweet
+This is Spring XD module for sentiment prediction of a tweet. For prediction of sentiment is used Stanford [CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) library.
